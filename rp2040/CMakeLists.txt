@@ -16,9 +16,9 @@ set(SECOND_SEGMENT_INDEX OFF)
 set(SECOND_SEGMENT_REVERSED OFF)
 
 # HyperSPI communication interface with Raspberry Pi
-set(OUTPUT_SPI_DATA_PIN 4)
-set(OUTPUT_SPI_CLOCK_PIN 2)
-set(OUTPUT_SPI_CHIP_SELECT 5)
+set(OUTPUT_SPI_DATA_PIN 28)
+set(OUTPUT_SPI_CLOCK_PIN 26)
+set(OUTPUT_SPI_CHIP_SELECT 29)
 set(OUTPUT_SPI_INTERFACE spi0)
 
 # User configuration section ends here
